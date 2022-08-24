@@ -11,4 +11,3 @@ dependencies:
   - scikit-learn
   - pandas
   - tensorflow
-  - tensorflow_docs
